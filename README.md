@@ -1,3 +1,5 @@
+the answer of this questions in the kaggle2 notebook 
+
 ✔️ Problem Formulation:
 Define the problem. What is the input? What is the output? What data mining function is required? What could be the challenges? What is the impact? What is an ideal solution?
 (You can put your answers in markdown format in your notebook - Text Cell)
