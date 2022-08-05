@@ -1,6 +1,3 @@
-✔️ Meme competition [optional]:
-Include/find a MEME that you liked related to data science/data mining/machine learning. You can upload yours here.
-
 ✔️ Problem Formulation:
 Define the problem. What is the input? What is the output? What data mining function is required? What could be the challenges? What is the impact? What is an ideal solution?
 (You can put your answers in markdown format in your notebook - Text Cell)
@@ -22,10 +19,17 @@ You have to tune at least 5 times. All the tried solutions should be different (
 Tried decision tree model with at least 2 different configurations/hyper-parameters
 Tried SVM model with at least 2 different configurations/hyper-parameters
 Tried Naive Bayesian model.
+
+
 ✔️ Answer the questions below (briefly):
 
 🌈 Why Data Mining is a misnomer? What is another preferred name?
+
 🌈 What is the general knowledge discovery process? What is the difference between a data engineer and data scientist/AI engineer?
+
+
 🌈 In data mining, what is the difference between prediction and categorization?
+
 🌈 Why data science/machine learning is a bad idea in the context of information security?
+
 🌈 What is CIA principle and how can we use it to access the security/privacy aspect of the AI system/pipelines?
